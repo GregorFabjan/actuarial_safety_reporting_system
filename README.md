@@ -32,7 +32,7 @@ Send your report to [gregor@osmodelling.com](mailto:gregor@osmodelling.com?subje
 
 ### Through GitHub (public)
 
-[Open a new issue](https://github.com/open-source-modelling/actuarial_safety_reporting_system/issues/new?title=ASRS%20report) and paste in the [template](#report-template) below.
+Fill in the [report form](https://github.com/open-source-modelling/actuarial_safety_reporting_system/issues/new?template=report.yml). It asks the same questions as the [template](#report-template) below.
 
 > [!WARNING]
 > GitHub issues are public as soon as you submit them, and they show your GitHub username. Anonymise your report before posting it, or use email instead.
